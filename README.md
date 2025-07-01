@@ -1,2 +1,2 @@
-# odin-template
-This is a template for future projects, use as needed.
+# odin-weather
+This is a simple weather app. Hiding API key so this won't query, unfortunately.
