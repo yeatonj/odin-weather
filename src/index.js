@@ -1,5 +1,10 @@
+// import 'dotenv/config';
+// console.log(process.env)
+
+console.log(process.env)
+
 // Import stylesheet -----------
-import "./styles.css";
+// import "./styles.css";
 
 // Import module -----------
 // import { test } from "./test.js";
